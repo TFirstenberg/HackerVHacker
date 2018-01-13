@@ -47,8 +47,16 @@ class Block
   
   
   //methods
+  
+  //Draws the Block on the canvas
   public void drawBlock(){
-    rect(
+    rect(xPos, yPos, bHeight, bWidth); 
+  }
+  
+  //Moves the Block depending on what keys are pressed
+  //Should be called in the draw function so that it is called continuously
+  public void moveBlock(){
+  
   }
 }
 
