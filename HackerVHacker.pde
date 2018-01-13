@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //define players
 Player playerOne;
 Player playerTwo;
