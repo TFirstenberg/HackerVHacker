@@ -32,10 +32,24 @@ class Player
 class Block
 {
   //variables
-  
+  private int bHeight, bWidth, xPos, yPos;
+  private boolean isPlaced, isUp;
   //constructors
+  public Block(int h, int w, int x, int y){
+    bHeight = h;
+    bWidth = w;
+    xPos = x;
+    yPos = y;
+    isPlaced = false;
+    isUp = false;
+  }
+  
+  
   
   //methods
+  public void drawBlock(){
+    rect(
+  }
 }
 
 //the class for the node object
