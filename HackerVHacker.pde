@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 import org.w3c.dom.css.Rect;
 =======
 
 >>>>>>> 59bf4a1b9f6cf149ac221fa486c3ac4753979ea6
+>>>>>>> dd4670947044c2767b217cb64316783a2a67abe8
 //define players
 Player playerOne;
 Player playerTwo;
@@ -185,6 +188,8 @@ class Node
 }
 
 //the class for the goal object 
+<<<<<<< HEAD
+=======
 class Goal
 {
   //variables
@@ -389,6 +394,7 @@ class Node
   }
 }
 
+>>>>>>> dd4670947044c2767b217cb64316783a2a67abe8
 //the class for the goal object 
 class Goal
 {
@@ -403,5 +409,9 @@ class Goal
 <<<<<<< HEAD
 }
 =======
+<<<<<<< HEAD
+}
+=======
 }
 >>>>>>> 59bf4a1b9f6cf149ac221fa486c3ac4753979ea6
+>>>>>>> dd4670947044c2767b217cb64316783a2a67abe8
